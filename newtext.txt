@@ -1,0 +1,8 @@
+1.Excel
+2.PowerQuery
+3.PowerBi
+4.SQL
+5.Data Science Bootcamp
+6.Generative AI Bootcamp
+7.RAG
+8.Agentic AI 
